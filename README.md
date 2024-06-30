@@ -2,7 +2,7 @@
 
 ### This repository holds the classes I worked on in the class wide minigame server without distributing other students code.
 
-[View the Demo Video here](https://www.youtube.com/watch?v=0Q6NSY26P2c)
+[View the demo video here](https://www.youtube.com/watch?v=0Q6NSY26P2c)
 
 ---
 ## Overview:

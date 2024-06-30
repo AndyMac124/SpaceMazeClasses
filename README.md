@@ -1,6 +1,6 @@
 # SpaceMaze Classes
 
-### This repository holds the classes I worked on in the class wide minigame server without distributing other students code.
+### This repository holds the main Java classes I wrote in a minigame server without distributing other students code.
 
 [View the demo video here](https://www.youtube.com/watch?v=0Q6NSY26P2c)
 

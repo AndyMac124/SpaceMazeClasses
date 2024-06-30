@@ -9,16 +9,6 @@
 The SpaceMaze Game is a pacman-like game, where a player runs through a maze, hunting for the key (or keys) to unlock the exit.  The maze has bots, traps and a timer to challenge the player, as well as bonus chests and an end score to reward the player.
 
 ---
-## Contents:
-* [Overview](#overview)
-* [User Story and Issues](#user-story)
-* [How Does it work?](#how-does-it-work?)
-* [Design Patterns](#design-pattern)
-* [UML Class Diagram](#uml-class-diagram)
-* [UML Sequence Diagram](#uml-sequence-diagram)
-* [SpaceMaze Game Authors](#authors)
-
----
 ## User Story:
 1. As a developer, I would like to create a pacman-style maze mini-game with a space theme.
 2. As a player, I would like to play a challenging maze game with spaceships and aliens, that has rich features and user interface.
